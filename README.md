@@ -1,4 +1,4 @@
-<img src="header.png"> <!-- <img src="images/home_preview.jpg" width="600" > -->
+<img src="https://raw.githubusercontent.com/jhonattanrivera/jhonattanrivera/master/header.png"> <!-- <img src="images/home_preview.jpg" width="600" > -->
 
 <!--
 **jhonattanrivera/jhonattanrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
