@@ -1,16 +1,23 @@
 <img src="https://raw.githubusercontent.com/jhonattanrivera/jhonattanrivera/master/header.png"> <!-- <img src="images/home_preview.jpg" width="600" > -->
 
-<!--
-**jhonattanrivera/jhonattanrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 Being Integration Engieer and working in payments in Latam </a> 🚀 
+</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhonattan-rivera/" target="_blank">Linkedin</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://twitter.com/jhonattantxt" target="_blank">Twitter</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://techhub.social/@jhonattan" target="_blank">Mastodon</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="http://jhonattanrivera.com/" target="_blank">Web</a>
+  <br />
+  <hr />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working @ [Pomelo](https://pomelo.la/)
+- 🌱 I’m currently learning crypto things
+- 💬 Ask me about payment gateways and payment processors in Latam
+- 📫 How to reach me: hello@jhonattanrivera.com
+<!-- - ⚡ Fun fact: ... -->
