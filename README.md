@@ -1,23 +1,18 @@
-<img src="https://raw.githubusercontent.com/jhonattanrivera/jhonattanrivera/master/header.png"> <!-- <img src="images/home_preview.jpg" width="600" > -->
+# Jhonattan Rivera
 
-<h3 align="center">
-  🚀 Being Integration Engieer and working in payments in Latam </a> 🚀 
-</h3>
+**🚀 Integrations Manager · Pagos en LATAM · APIs | PCI DSS | ISO8583 🚀**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jhonattan-rivera/" target="_blank">Linkedin</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://twitter.com/jhonattantxt" target="_blank">Twitter</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://techhub.social/@jhonattan" target="_blank">Mastodon</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="http://jhonattanrivera.com/" target="_blank">Web</a>
-  <br />
-  <hr />
-</div>
+[LinkedIn](https://www.linkedin.com/in/jhonattan-rivera/) · [Web](http://jhonattanrivera.com/)
 
-- 🔭 I’m currently working @ [Pomelo](https://pomelo.la/)
-- 🌱 I’m currently learning crypto things
-- 💬 Ask me about payment gateways and payment processors in Latam
-- 📫 How to reach me: hello@jhonattanrivera.com
-<!-- - ⚡ Fun fact: ... -->
+---
+
+- 🔭 Actualmente: Integrations Manager en **[Akua](https://akua.la)**
+- 🌱 Aprendiendo: automatización de homologaciones y buenas prácticas de integración
+- 💬 Pregúntame sobre: pasarelas, adquirencia, emisores, ISO8583, 3DS, tokenización y flujos de onboarding
+- 🧰 Herramientas: APIs REST, Postman, JSON, Jira, Confluence, Notion, SQL básico
+- 📫 Contacto: **hello@jhonattanrivera.com**
+
+**Principios de trabajo**
+- Documentación clara → menos fricción para clientes y equipos
+- Métricas antes que opiniones → diagnóstico y mejoras continuas
+- Seguridad y cumplimiento como parte del diseño, no como post-proceso
