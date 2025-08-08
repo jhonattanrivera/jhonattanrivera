@@ -9,7 +9,7 @@
 - 🔭 Actualmente: Integrations Manager en **[Akua](https://akua.la)**
 - 🌱 Aprendiendo: automatización de homologaciones y buenas prácticas de integración
 - 💬 Pregúntame sobre: pasarelas, adquirencia, emisores, ISO8583, 3DS, tokenización y flujos de onboarding
-- 🧰 Herramientas: APIs REST, Postman, JSON, Jira, Confluence, Notion, SQL básico
+- 🧰 Herramientas: APIs REST, Postman, JSON, Jira, Confluence, Notion, SQL, SDKs...
 - 📫 Contacto: **hello@jhonattanrivera.com**
 
 **Principios de trabajo**
